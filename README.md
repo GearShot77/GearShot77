@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/GearShot77.png" alt="Your Image Badge" />
+<a href="https://tryhackme.com/p/GearShot77">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/GearShot77.png" alt="Your Image Badge" />
+</a>
