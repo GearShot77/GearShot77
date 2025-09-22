@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <a href="https://tryhackme.com/p/GearShot77">
   <img src="https://tryhackme-badges.s3.amazonaws.com/GearShot77.png"  />
 </a>
+
+<img width="1477" height="808" alt="image" src="https://github.com/user-attachments/assets/6c5127d0-0ea5-40a3-8e4b-5bf77151144f" />
