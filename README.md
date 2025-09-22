@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3950744" style='border:none;'></iframe>
+<a href="https://tryhackme.com/p/GearShot77">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/GearShot77.png" alt="TryHackMe Badge" />
+</a>
